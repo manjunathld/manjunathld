@@ -1,6 +1,9 @@
-<img align="right" alt="TTTTT" width="400"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Developer" width="400"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-<h1 align="left">Hello!! 👋... I'm Manjunath LD</h1>
+<h1 align="left">
+  Hello...!!! I'm MANJUNATH LD
+  <img align="left" alt="Developer" width="40"  src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif">
+</h1>
 
 <h3 align="left">Android App Developer (JAVA/KOTLIN & UI/UX)</h3>
 
