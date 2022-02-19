@@ -1,4 +1,4 @@
-<img align="right" alt="TTTTT" width="400"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="TTTTT" width="450"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="left">Hello!! 👋... I'm Manjunath LD</h1>
 <h3 align="left">Am Android App Developer (JAVA/KOTLIN & UI/UX)</h3>
 
