@@ -1,7 +1,7 @@
 <img align="right" alt="Developer" width="400"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <h1 align="left">
-  Hello...!!! I'm MANJUNATH LD
+  Hello...!!! I'm Manjunath LD
   <img align="left" alt="Developer" width="40"  src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif">
 </h1>
 
