@@ -1,13 +1,17 @@
-<img align="right" alt="TTTTT" width="450"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="TTTTT" width="500"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="left">Hello!! 👋... I'm Manjunath LD</h1>
-<h3 align="left">Am Android App Developer (JAVA/KOTLIN & UI/UX)</h3>
+<h3 align="left">Android App Developer (JAVA/KOTLIN & UI/UX)</h3>
 
-<h3 align="left">Profile:</h3>
+<br>
+
+<h2 align="left">Profile:</h2> 
 
 _Inovative Android Developer with 3.3 years of experience in Designing, Developing and Maintaining the Android applications for better user experience.
-Having good knowledge on code maintenance using Git, good at code reusability._<br>
+Having good knowledge on code maintenance using Git, good at code reusability._
 
-<h3 align="left">Skills:</h3>
+<br>
+
+<h2 align="left">Skills:</h2>
 <table>
   <tbody>
   <tr>
@@ -33,7 +37,9 @@ Having good knowledge on code maintenance using Git, good at code reusability._<
   </tbody>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
@@ -47,7 +53,9 @@ Having good knowledge on code maintenance using Git, good at code reusability._<
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 
-<h3 align="left">Connect with me:</h3>
+<br>
+  
+<h2 align="left">Connect with me:</h2>
 
 **Mobile:** +91 8073846893 <br>
 **Email&nbsp;&nbsp;&nbsp;:** ldmanju007@gmail.com
