@@ -1,4 +1,4 @@
-<img align="right" alt="Developer" width="400"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Developer" width="450"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <h1 align="left">
   Hello..! I'm Manjunath LD
