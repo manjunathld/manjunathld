@@ -2,7 +2,7 @@
 
 <h1 align="left">
   Hello..! I'm Manjunath LD
-  <img align="left" alt="Developer" width="40"  src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif">
+  <img align="left" alt="Developer" width="30"  src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif">
 </h1>
 
 <h3 align="left">Android App Developer (JAVA/KOTLIN & UI/UX)</h3>
