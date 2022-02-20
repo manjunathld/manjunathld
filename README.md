@@ -1,8 +1,11 @@
-<img align="right" alt="Developer" width="400"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Developer" width="500"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-<h1 align="left">
-  Hello..! I'm Manjunath LD
-  <img align="left" alt="Developer" width="30"  src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif">
+<h3 align="left">
+  Hello..!
+  <img align="left" alt="Developer" width="24"  src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif">
+</h3>
+<h1>
+  I'm Manjunath LD
 </h1>
 
 <h3 align="left">Android App Developer (JAVA/KOTLIN & UI/UX)</h3>
