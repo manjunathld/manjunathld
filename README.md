@@ -12,7 +12,7 @@
 
 <h2 align="left">Profile:</h2> 
 
-_Inovative Android Developer with 3.3 years of experience in Designing, Developing and Maintaining the Android applications for better user experience.
+_Inovative Android Developer with 3.4 years of experience in Designing, Developing and Maintaining the Android applications for better user experience.
 Having good knowledge on code maintenance using Git, good at code reusability._
 
 <h2 align="left">Skills:</h2>
